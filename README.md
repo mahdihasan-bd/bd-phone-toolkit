@@ -1,5 +1,7 @@
 # bd-phone-toolkit
 
+[![tests](https://github.com/mahdihasan-bd/bd-phone-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/mahdihasan-bd/bd-phone-toolkit/actions/workflows/tests.yml)
+
 Normalise, validate and classify Bangladeshi mobile numbers. Standard library only.
 
 Built after hand-copying numbers from spreadsheets and SMS into a payment tool and getting the format wrong every second row.
